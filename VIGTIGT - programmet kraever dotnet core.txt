@@ -1,0 +1,1 @@
+For at kunne køre programmet kræver det at computeren har den nyeste version af dotnet core installeret.
